@@ -497,18 +497,19 @@ body {
 	display: block;
 	line-height: 35px;
 	text-align: center;
-	border: 1px solid rgba(0, 0, 0, .1);
+	border: 1px solid rgba(9, 9, 9, .8);
 	-webkit-border-radius: 3px;
 	   -moz-border-radius: 3px;
 			border-radius: 3px;
 	font-size: 14px;
-	color: rgba(0, 0, 0, .2);
+	color: rgba(9, 9, 9, .7);
 }
 
 .social-links a:hover {
-	border: 1px solid rgba(0, 0, 0, .5);
-	color: rgba(0, 0, 0, .8);
+	border: 1px solid rgba(0, 0, 0, 0);
+	color: rgb(9, 9, 9);
 }
+
 
 .home-overlay {
     background-color: rgba(44, 62, 80, 0.3);
